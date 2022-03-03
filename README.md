@@ -1,2 +1,1 @@
-scripts
-some scripts
+some executable scripts
